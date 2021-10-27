@@ -8,3 +8,43 @@
 
 # Database
 *.sqlite3
+
+views.py
+urls.py
+tests.py
+models.py
+forms.py
+admin.py
+_int_.py
+index.html
+base.generic.html
+logged_out.html
+login.html
+password_reset_complete.html
+password_reset_comfirm.html
+password_reset_done.html
+password_reset_form.html
+contact.html
+book_list.html
+book_form.html
+book_detail.html
+book_confirm_delete.html
+bok_list.html
+bok_detail.html
+bk_list.html
+bk_detail.html
+author_list.html
+author_form.html
+author_detail.html
+author_confirm_delete.html
+requirements.txt
+background.gif
+images.jpg
+o0400041911756434001.jpg
+R.jpg
+R (1).jpg
+R (4).jpg
+R (5).jpg
+styles.css
+0001_initial.py
+
