@@ -47,4 +47,10 @@ R (4).jpg
 R (5).jpg
 styles.css
 0001_initial.py
-
+settings.py
+urls.py
+wsgi.py
+git
+asgi.py
+__init__.py
+manage.py
