@@ -91,3 +91,5 @@ ENV/
 
 # Spyder project settings
 .spyderproject
+"*.pyc" 
+"*.pyc" 
